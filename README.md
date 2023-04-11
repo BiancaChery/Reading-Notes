@@ -9,4 +9,4 @@ _Brief synopses of reading material_
 
 ## Code 401 - Advanced Software Development
 
-### Things I Want To Know More About
+ *Things I Want To Know More About*
