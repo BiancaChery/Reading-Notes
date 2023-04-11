@@ -35,5 +35,23 @@ from the browser address bar.
 
 In JavaScript, a String is created by enclosing it in a single or double quote mark. A Number is created without quotes around them.
 
-Variables are containers that store values. They are necessary to do anything interesting in programming, such as personalie a greeting message, or change an 
+Variables are containers that store values. They are necessary to do anything interesting in programming, such as personalize a greeting message, or change an 
 image displayed in an image gallery.
+
+  
+What is an HTML attribute? An HTML attribute is an element that contains extra information that won't appear in the context.
+Describe the Anatomy of an HTMl element. The anatomy of an HTML element is the opening tag, the content, and the closing tag.
+What is the Difference between <article> and <section> element tags? The <article> element specifies independent, self-contained content. The <section> element defines section in a document. 
+What Elements does a “typical” website include? They include headings and paragraphs
+How does metadata influence Search Engine Optimization? Using metadata boosts the SEO efforts that are written in the search engine's language. It helps the search engine better understand the topic, and it also helps to display more relevant results.
+How is the <meta> HTML tag used when specifying metadata? The <meta> tag defines metadat about the HTML document. It is the information about the data.
+  
+  
+What is the first step to designing a Website? The first step to designing a website is deciding what you want to accomplish with it.
+What is the most important question to answer when designing a Website? The most important question to answer is "What exactly do I want to accomplish?"
+  
+Why should you use an <h1> element over a <span> element to display a top level heading? You should use an <h1> element over a <span> because it is a semantic element (adds a large size font to heading), it gives the text its wrapped around a top level heading on the page. Just adding the <span> element causes it to look like a top level heading, without the styling of adding the <h1> element.
+What are the benefits of using semantic tags in our HTML? Some of the benefits of using semantic tags are screen readers can use it to help visually impaired users work a page, and search engines will read its contents as vital keywords to push the showing of the search rankings.
+  
+Describe 2 things that require JavaScript in the Browser? 
+How can you add JavaScript to an HTML document?
