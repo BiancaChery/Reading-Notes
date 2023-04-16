@@ -1,3 +1,5 @@
+These topics are pertinent to understanding and coding in HTML documents using JavaScript. We need them to understand the different elements are variables into making text. 
+
 **Learn HTML: Ordered & Unordered Lists
 
 When should you use an unordered list in your HTML document? When presenting a grouping of items that are not in any set order.
