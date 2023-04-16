@@ -11,5 +11,6 @@ https://github.com/BiancaChery/Reading-Notes/blob/29ed41ffdd0f98b6d62bf69125acfe
 ## Code 401 - Advanced Software Development
 
  ***Things I Want To Know More About***
+
 How to read coding to understand if an element is presented to be a valid array.
 How to read a conditional piece of code
