@@ -1,3 +1,5 @@
+These topics are pertinent to understanding and coding in HTML documents using JavaScript. We need them to understand the different elements are variables into making text.
+
 **Learn HTML: Creating Hyperlinks
 
 To create a basic link, we wrap text or other content inside what element?
