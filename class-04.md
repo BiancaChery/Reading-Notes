@@ -12,7 +12,7 @@ What are some ways we can ensure links on our pages are accessible to all reader
 
 What is meant by “normal flow”? It ensures that the page is readable, even with a limited browser or a device like a screen reader that reads the info on the page out to the user.
  
-What are a few differences between block-level and inline elements? Block-level elements consume the entire width of the text, they always start in a new line and have top and bottom margins, with no other elements around them. Block-level elements are elements like: "<h1>, <li>, <ol>, the <p> tags and etc...". Where as inline elements are the tags used to add content into the webpage, they can be used along side other elements and they do not have top or bottom margins. Inline elements are elements like: "<a>, <script>, <span> and <img>", just to name a few. They are the same in the sense in which they provide the content with information to the webpage being made. 
+What are a few differences between block-level and inline elements? Block-level elements consume the entire width of the text, they always start in a new line and have top and bottom margins, with no other elements around them. Block-level elements are elements like: "h1, li, ol, the p tags and etc...". Where as inline elements are the tags used to add content into the webpage, they can be used along side other elements and they do not have top or bottom margins. Inline elements are elements like: "a, script, span and img", just to name a few. They are the same in the sense in which they provide the content with information to the webpage being made. 
 
 ___ positioning is the default for every html element. -Static positioning
 
