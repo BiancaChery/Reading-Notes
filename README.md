@@ -23,3 +23,5 @@ How to read coding to understand if an element is presented to be a valid array.
 How to read a conditional piece of code
 
 Functions when it comes to the different arrays and sum factors
+
+Understanding the set ups of float and flexbox, and when which one is more beneficial to use within code.
