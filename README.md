@@ -11,6 +11,7 @@ _Brief synopses of reading material_
 [Reading Assignment-6](https://github.com/BiancaChery/Reading-Notes/blob/5ba6193f1298029eb6f6f9ae932d78a6d0afb1a2/class-06.md)
 [Reading Assignment-7](https://github.com/BiancaChery/Reading-Notes/blob/7452ad0bbdd9adc6ee2ff259250b1ec7af3b498d/class-07.md)
 [Reading Assignment-8](https://github.com/BiancaChery/Reading-Notes/blob/bbb955929be2f947a8a5d130c406c06de398fe71/class-08.md)
+[Reading Assignment-9](https://github.com/BiancaChery/Reading-Notes/blob/c953ac920f15cf2a9f830af637b94ed03958923b/class-09.md)
 
 ## Code 301 - Intermediate Software Development
 
@@ -25,3 +26,4 @@ How to read a conditional piece of code
 Functions when it comes to the different arrays and sum factors
 
 Understanding the set ups of float and flexbox, and when which one is more beneficial to use within code.
+
