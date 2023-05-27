@@ -3,6 +3,7 @@ These topics of reading pertain to what we are studying in the module, because w
 **HTML Forms: Your first Web Form. How To Structure A Web Form.
 
 https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form, https://developer.mozilla.org/en-US/docs/Learn/Forms/How_to_structure_a_web_form
+
 Why are forms so important in web development? -They are used for collecting data from users, or allowing them to control a user interface.
 
 When designing a form, what are some key things to keep in mind when it comes to user experience? -Label fields clearly and concisely. Address users' concerns in the place they will arise. Use descriptive, action-based words on buttons. Consider using the first-person on buttons. Don't use placeholder text as labels. Don't use all-uppercase in labels or placeholder text.
@@ -17,6 +18,7 @@ List 5 form elements and explain their importance.
 **Learn JS: Introduction To Events.
 
 https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events#event_bubbling
+
 How would you describe events to a non-technical friend? -I would describe it like cause and effect, there is something that happens that will have an effect to it. Like applying an email to a newsletter, once the email is submitted you receive information to that email afterwards.
 
 When using the addEventListener() method, what 2 arguments will you need to provide? -Two arguments we will need to provide is a string to indicate that we want to listen for the event, and then a function to call when the event happens.
