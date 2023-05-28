@@ -10,6 +10,7 @@ List a few types of errors that you have encountered in past lab assignments and
 
 How will this topic continue to influence your long term goals?
 
+
 **The JavaScript Debugger.
 
 https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Tools_and_setup/What_are_browser_developer_tools#the_javascript_debugger
