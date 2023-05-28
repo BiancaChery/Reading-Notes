@@ -12,6 +12,7 @@ _Brief synopses of reading material_
 [Reading Assignment-7](https://github.com/BiancaChery/Reading-Notes/blob/7452ad0bbdd9adc6ee2ff259250b1ec7af3b498d/class-07.md)
 [Reading Assignment-8](https://github.com/BiancaChery/Reading-Notes/blob/bbb955929be2f947a8a5d130c406c06de398fe71/class-08.md)
 [Reading Assignment-9](https://github.com/BiancaChery/Reading-Notes/blob/c953ac920f15cf2a9f830af637b94ed03958923b/class-09.md)
+[Reading Assignmet-10](https://github.com/BiancaChery/Reading-Notes/blob/56ec7f65045d6ecbc43f20ae8f0d18d43eff1c73/class-10.md)
 
 ## Code 301 - Intermediate Software Development
 
@@ -27,3 +28,4 @@ Functions when it comes to the different arrays and sum factors
 
 Understanding the set ups of float and flexbox, and when which one is more beneficial to use within code.
 
+Wanting to learn more about call stack.
