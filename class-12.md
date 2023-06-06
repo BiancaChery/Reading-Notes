@@ -45,6 +45,6 @@ https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-
   https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors
 
 ### Drawing Text - Canvas API
-  Canvas provides two methods to render text: fillText and strokeText. There are advanced text measurements within the drawing text elements on canvas. Canvas content is 
+  *Canvas provides two methods to render text: fillText and strokeText. There are advanced text measurements within the drawing text elements on canvas. Canvas content is 
   not exposed to accessibility tools like semantic HTML is though.
   https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text
