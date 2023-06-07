@@ -13,6 +13,8 @@ _Brief synopses of reading material_
 [Reading Assignment-8](https://github.com/BiancaChery/Reading-Notes/blob/bbb955929be2f947a8a5d130c406c06de398fe71/class-08.md)
 [Reading Assignment-9](https://github.com/BiancaChery/Reading-Notes/blob/c953ac920f15cf2a9f830af637b94ed03958923b/class-09.md)
 [Reading Assignment-10](https://github.com/BiancaChery/Reading-Notes/blob/56ec7f65045d6ecbc43f20ae8f0d18d43eff1c73/class-10.md)
+[Reading Assignment-11](https://github.com/BiancaChery/Reading-Notes/blob/6ee16c05bd3afc9833f2abd33a993c073272c7c7/class-11.md)
+[Reading Assignment-12](https://github.com/BiancaChery/Reading-Notes/blob/6ee16c05bd3afc9833f2abd33a993c073272c7c7/class-12.md)
 
 ## Code 301 - Intermediate Software Development
 
