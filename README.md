@@ -16,6 +16,8 @@ _Brief synopses of reading material_
 [Reading Assignment-11](https://github.com/BiancaChery/Reading-Notes/blob/6ee16c05bd3afc9833f2abd33a993c073272c7c7/class-11.md)
 [Reading Assignment-12](https://github.com/BiancaChery/Reading-Notes/blob/6ee16c05bd3afc9833f2abd33a993c073272c7c7/class-12.md)
 [Reading Assignment-13](https://github.com/BiancaChery/Reading-Notes/blob/88368a82886b5850fef5940bddafbed198e300de/class-13.md)
+[Reading Assignment-14](https://github.com/BiancaChery/Reading-Notes/blob/63b467ac6ff17db644259312f7bba1ce38fb7123/class-14.md)
+[Psychological Safety](https://github.com/BiancaChery/Reading-Notes/blob/63b467ac6ff17db644259312f7bba1ce38fb7123/class-14-Psychological-Safety.md)
 
 
 ## Code 301 - Intermediate Software Development
