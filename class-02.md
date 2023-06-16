@@ -6,9 +6,9 @@ Why is it important to use semantic elements in our HTML? -The semantic HTML tag
 
 How many levels of headings are there in HTML? -There are 6 levels of elements.
 
-What are some uses for the <sup> and <sub> elements? -Superscript and subscript are used when marking up items like dates, chemical formulae, and mathematical equations so they have the correct meaning
+What are some uses for the sup and sub elements? -Superscript and subscript are used when marking up items like dates, chemical formulae, and mathematical equations so they have the correct meaning
 
-When using the <abbr> element, what attribute must be added to provide the full expansion of the term? -The <title> attribute.
+When using the abbr element, what attribute must be added to provide the full expansion of the term? -The title attribute.
 
 https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Advanced_text_formatting
 
@@ -25,10 +25,6 @@ What is representing the selector? -The h2 element.
 Which components are the CSS declarations? -Everything within the block of the selector.
 
 Which components are considered properties? -The color and the pixels.
-   h2 {
-     color: black;
-     padding: 5px;
-   }
 
 https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured
 
