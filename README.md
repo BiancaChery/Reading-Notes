@@ -5,6 +5,7 @@ _Brief synopses of reading material_
 
 ## Code 201 - Foundations of Software Development
 [Reading Assignment-1](https://github.com/BiancaChery/Reading-Notes/blob/29ed41ffdd0f98b6d62bf69125acfe47c3ceb1a6/class-01.md)
+[Reading Assignment-2](https://github.com/BiancaChery/Reading-Notes/blob/29f4470034327529eb3c7ce752ef7a4b9ac54e5f/class-02.md)
 [Reading Assignment-3](https://github.com/BiancaChery/Reading-Notes/blob/ce72ffd1fb6808d6e5202c65e07bf3e932363489/class-03.md)
 [Reading Assignment-4](https://github.com/BiancaChery/Reading-Notes/blob/5d0a7617ce99b5890a40e3865d96131a6d9fb2ec/class-04.md)
 [Reading Assignment-5](https://github.com/BiancaChery/Reading-Notes/blob/c102f8f77b2126d3d9f9c97c28503782526980fc/class-05.md)
