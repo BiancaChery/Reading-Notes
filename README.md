@@ -22,6 +22,8 @@ _Brief synopses of reading material_
 
 
 ## Code 301 - Intermediate Software Development
+[Reading Assignment-1](https://github.com/BiancaChery/Reading-Notes/blob/2df3d4e5c9c36f24f4bab4f429c4cd89403cf070/301-class-01.md)
+[Reading Assignment-2](
 
 ## Code 401 - Advanced Software Development
 
