@@ -32,6 +32,9 @@ _Brief synopses of reading material_
 [Reading Assignment-8](https://github.com/BiancaChery/Reading-Notes/blob/c0de71fef699a21c9d5c34c9b84f742efc00bd78/301-class-08.md)
 [Reading Assignment-9](https://github.com/BiancaChery/Reading-Notes/blob/d4644146ab74175778738e5999cbe733de5d16c8/301-class-09.md)
 [Reading Assignment-10](https://github.com/BiancaChery/Reading-Notes/blob/345ccd80b57e3b8f8ba287747f994de803a9c34e/301-class-10.md)
+[Reading Assignment-11](https://github.com/BiancaChery/Reading-Notes/blob/180375e09c9b40608e9b9b80b3025df9f224ffc0/class-11.md)
+[Reading Assignment-12](
+[Reading Assignment-13](
 
 ## Code 401 - Advanced Software Development
 
